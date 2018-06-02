@@ -1,0 +1,62 @@
+#selections  {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+#date-slider {
+  width:430px;
+}
+
+#coin-select {
+  margin-left: 300px;
+  padding-top: 7px;
+  width: 300px;
+  padding-bottom: 7px;
+  border-radius: 2px 2px 2px 2px;
+  box-shadow: 0 0 10px #E8E8E8 inset;
+}
+
+#var-select{
+  padding-top: 7px;
+  width: 330px;
+  padding-bottom: 7px;
+  border-radius: 2px 2px 2px 2px;
+  box-shadow: 0 0 10px #E8E8E8 inset;
+}
+
+#chart-area {
+  margin-top: 80px;
+  margin-left: 250px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #bdbdbd;
+  font: 10px sans-serif;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  stroke: #636363;
+  stroke-width: 3px;
+  fill: none;
+}
+  
+.hover-line {
+  stroke: #636363;
+  stroke-width: 2px;
+  stroke-dasharray: 3,3;
+}
+
