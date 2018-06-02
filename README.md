@@ -2,7 +2,7 @@
 
 Visualize five different coins by Price,Trading volume and Market Capitalization.Shows how different coins change price over time.Flick between the five different coins in the market.
 
-# Visualization Work:
+# Visualization :
 
 1. A Line Graph to show price fluctuations in cryptocurriences over time.
 
