@@ -4,6 +4,9 @@ Visualize five different coins by Price,Trading volume and Market Capitalization
 
 # Visualization :
 
+![coins](https://user-images.githubusercontent.com/36566332/40873246-91660c36-667a-11e8-8da9-f6978ef98581.PNG)
+
+
 1. A Line Graph to show price fluctuations in cryptocurriences over time.
 
 2. Select any of the coins from dropdown and set y-axis to the price in dollars,total market capitalization and trading volume.
